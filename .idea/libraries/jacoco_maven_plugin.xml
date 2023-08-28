@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="jacoco.maven.plugin" type="repository">
+    <properties maven-id="org.jacoco:jacoco-maven-plugin:0.8.10" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jacoco-maven-plugin-0.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-utils-3.0.24.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/file-management-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-plugin-api-2.0.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-shared-io-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-artifact-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-artifact-manager-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-repository-metadata-2.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wagon-provider-api-1.0-alpha-6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/plexus-container-default-1.0-alpha-9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/junit-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/classworlds-1.1-alpha-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/maven-reporting-api-3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/doxia-sink-api-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.agent-0.8.10-runtime.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.core-0.8.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-commons-9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-tree-9.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/org.jacoco.report-0.8.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
